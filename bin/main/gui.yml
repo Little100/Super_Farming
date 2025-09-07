@@ -1,0 +1,170 @@
+title: Super Hoe GUI Editor
+size: 54
+items:
+  '0':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '1':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '2':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '3':
+    material: FARMLAND
+    name: '&a耕地模式'
+    lore:
+      - '&7切换到范围耕地模式。'
+      - '&#ff1a1a农&#ff1414民&#ff0d0d万&#ff0707岁&#ff0000！'
+  '4':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '5':
+    material: BONE_MEAL
+    name: '&b骨粉模式'
+    lore:
+      - '&7切换到范围施肥模式（待实现）。'
+  '6':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '7':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '8':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '9':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '10':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '11':
+    material: REDSTONE_BLOCK
+    name: '&e1x1'
+  '12':
+    material: REDSTONE_BLOCK
+    name: '&e3x3'
+  '13':
+    material: REDSTONE_BLOCK
+    name: '&e5x5'
+  '14':
+    material: REDSTONE_BLOCK
+    name: '&e7x7'
+  '15':
+    material: REDSTONE_BLOCK
+    name: '&e9x9'
+  '16':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '17':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '18':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '19':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '20':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '21':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '22':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '23':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '24':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '25':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '26':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '27':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '28':
+    material: LILY_PAD
+    name: '&r'
+  '29':
+    material: WHEAT_SEEDS
+    name: '&r'
+  '30':
+    material: BEETROOT_SEEDS
+    name: '&r'
+  '31':
+    material: POTATO
+    name: '&r'
+  '32':
+    material: CARROT
+    name: '&r'
+  '33':
+    material: GLOW_BERRIES
+    name: '&r'
+  '34':
+    material: SWEET_BERRIES
+    name: '&r'
+  '35':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '36':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '37':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '38':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '39':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '40':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '41':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '42':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '43':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '44':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '45':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '46':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '47':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '48':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '49':
+    material: PAPER
+    name: '&6当前信息'
+  '50':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '51':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '52':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
+  '53':
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    name: '&r'
