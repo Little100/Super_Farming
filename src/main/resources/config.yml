@@ -1,3 +1,12 @@
+language: "zh_cn"
+
+# 调试设置 (Debug Settings)
+debug:
+  # 是否启用调试日志 (Enable debug logging)
+  enabled: false
+  # 是否启用合成调试日志 (Enable crafting debug logging)
+  crafting: false
+
 farm:
   # 自动耕地功能
   tilling:

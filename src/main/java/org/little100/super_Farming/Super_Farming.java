@@ -50,6 +50,7 @@ public final class Super_Farming extends JavaPlugin {
 
         getServer().getPluginManager().registerEvents(new AnvilListener(this), this);
         getServer().getPluginManager().registerEvents(new PlayerListener(this, guiManager), this);
+        getServer().getPluginManager().registerEvents(new CraftingListener(this), this);
         farmManager = new FarmManager(this, databaseManager);
         farmManager.loadFarms();
 
@@ -110,5 +111,13 @@ public final class Super_Farming extends JavaPlugin {
 
     public FarmManager getFarmManager() {
         return farmManager;
+    }
+    
+    public boolean isDebugEnabled() {
+        return getConfig().getBoolean("debug.enabled", false);
+    }
+    
+    public boolean isCraftingDebugEnabled() {
+        return getConfig().getBoolean("debug.crafting", false);
     }
 }

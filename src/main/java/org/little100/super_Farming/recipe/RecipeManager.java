@@ -54,27 +54,27 @@ public class RecipeManager {
 
     private static void createTier2Recipes() {
         ShapelessRecipe woodenHoe2 = new ShapelessRecipe(new NamespacedKey(plugin, "wooden_hoe_tier2"), ItemManager.WOODEN_HOE_TIER2);
-        woodenHoe2.addIngredient(new RecipeChoice.ExactChoice(ItemManager.WOODEN_HOE_TIER1));
+        woodenHoe2.addIngredient(Material.WOODEN_HOE);
         woodenHoe2.addIngredient(new RecipeChoice.MaterialChoice(Material.OAK_LOG, Material.SPRUCE_LOG, Material.BIRCH_LOG, Material.JUNGLE_LOG, Material.ACACIA_LOG, Material.DARK_OAK_LOG, Material.CRIMSON_STEM, Material.WARPED_STEM));
         Bukkit.addRecipe(woodenHoe2);
 
         ShapelessRecipe stoneHoe2 = new ShapelessRecipe(new NamespacedKey(plugin, "stone_hoe_tier2"), ItemManager.STONE_HOE_TIER2);
-        stoneHoe2.addIngredient(new RecipeChoice.ExactChoice(ItemManager.STONE_HOE_TIER1));
+        stoneHoe2.addIngredient(Material.STONE_HOE);
         stoneHoe2.addIngredient(Material.STONE);
         Bukkit.addRecipe(stoneHoe2);
 
         ShapelessRecipe ironHoe2 = new ShapelessRecipe(new NamespacedKey(plugin, "iron_hoe_tier2"), ItemManager.IRON_HOE_TIER2);
-        ironHoe2.addIngredient(new RecipeChoice.ExactChoice(ItemManager.IRON_HOE_TIER1));
+        ironHoe2.addIngredient(Material.IRON_HOE);
         ironHoe2.addIngredient(Material.IRON_BLOCK);
         Bukkit.addRecipe(ironHoe2);
 
         ShapelessRecipe goldenHoe2 = new ShapelessRecipe(new NamespacedKey(plugin, "golden_hoe_tier2"), ItemManager.GOLDEN_HOE_TIER2);
-        goldenHoe2.addIngredient(new RecipeChoice.ExactChoice(ItemManager.GOLDEN_HOE_TIER1));
+        goldenHoe2.addIngredient(Material.GOLDEN_HOE);
         goldenHoe2.addIngredient(Material.GOLD_BLOCK);
         Bukkit.addRecipe(goldenHoe2);
 
         ShapelessRecipe diamondHoe2 = new ShapelessRecipe(new NamespacedKey(plugin, "diamond_hoe_tier2"), ItemManager.DIAMOND_HOE_TIER2);
-        diamondHoe2.addIngredient(new RecipeChoice.ExactChoice(ItemManager.DIAMOND_HOE_TIER1));
+        diamondHoe2.addIngredient(Material.DIAMOND_HOE);
         diamondHoe2.addIngredient(Material.DIAMOND_BLOCK);
         Bukkit.addRecipe(diamondHoe2);
     }

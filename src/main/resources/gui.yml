@@ -15,7 +15,7 @@ items:
     name: '&a耕地模式'
     lore:
       - '&7切换到范围耕地模式。'
-      - '&#ff1a1a农&#ff1414民&#ff0d0d万&#ff0707岁&#ff0000！'
+      - '&c农民万岁！'
   '4':
     material: LIGHT_GRAY_STAINED_GLASS_PANE
     name: '&r'
